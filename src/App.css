@@ -12,7 +12,7 @@ h2 {
 .chat-box {
   background: #f5f5f5;
   border: 2px solid #ccc;
-  height: 500px;
+  height: 400px;
   overflow-y: auto;
   padding: 10px;
   display: flex;
@@ -34,13 +34,12 @@ h2 {
 }
 
 .bubble {
-  max-width: 70%;
+  max-width: 80%;                /* etwas mehr Gesamtbreite */
   padding: 10px 14px;
   border-radius: 16px;
-  position: relative;
-  display: flex;
-  align-items: center;
-  gap: 6px;
+  display: flex;                 /* NEU: Flex-Row für Icon-Text-Quellen */
+  align-items: flex-start;
+  gap: 8px;
 }
 
 .bubble.user {
@@ -59,12 +58,19 @@ h2 {
 }
 
 .bubble-text {
+  flex:  1 1 65%;                 /* 60-70 % der Bubble-Breite */
+  max-width: 100%;
+  white-space: pre-wrap;         /* erhält Zeilenumbrüche */
+  overflow-wrap: anywhere;       /* bricht lange Wörter */
+  line-height: 1.25;
   text-align: left;
-  line-height: 1.4;
 }
 
 .bot-icon {
-  font-size: 25px;
+  flex: 0 0 28px;                /* feste Breite für Emoji/Icon */
+  font-size: 24px;
+  line-height: 1;
+  align-self: center;
 }
 
 /* Punkte-Animation -----------------------------------------*/
@@ -101,10 +107,18 @@ h2 {
   gap: 10px;
 }
 
+/* Quellen kleingedruckt, umbrechbar */
 .sources {
-  font-size: 0.75rem;
-  color: #4b5563;        /* dezentes Grau */
-  margin-top: 4px;
+  flex: 0 0 30%;                 /* Restbreite */
+  max-width: 30%;
+  font-size: 0.8rem;
+  color: #555;
+  text-align: right;
+  line-height: 1.25;
+  display: flex;
+  flex-wrap: wrap;               /* Umbruch bei Bedarf */
+  gap: 4px;
+  margin-top: 2px;
 }
 
 .input-area textarea {

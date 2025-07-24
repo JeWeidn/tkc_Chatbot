@@ -953,5 +953,1910 @@
         ]
       }
     ]
+  },
+  {
+    "timestamp": "2025-07-11T12:52:46.646Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte bekomme ich im Fach Business Data Strategy?"
+      },
+      {
+        "role": "assistant",
+        "content": "…",
+        "loading": true
+      },
+      {
+        "role": "user",
+        "content": "Nenne mir drei Teilleistungen aus dem Bereich Betriebswirtschaftslehre von meinem Studiengang Wirtschaftsingenieurwesen."
+      },
+      {
+        "role": "assistant",
+        "content": "1. Teilleistung: B2B Vertriebsmanagement [T-WIWI-111367]\n2. Teilleistung: Einführung in die Wirtschaftspolitik [T-WIWI-103213]\n3. Teilleistung: Produktion, Logistik und Wirtschaftsinformatik [T-WIWI-111602]",
+        "sources": [
+          {
+            "page": 361,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 154,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 209,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 192,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 253,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 219,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 384,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 101,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 14,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 61,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 10,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 79,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 221,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 13,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 9,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 92,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 99,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 53,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 465,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 36,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 11,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 78,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 38,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 459,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 130,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 466,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 69,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T11:04:08.057Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hallo, wer ist für das Modul Automatisierung und Materialfluss in der Logistik verantwortlich und welche Fächer enthält dieses Modul in meinem Studium Wirtschaftsingenieurwesen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Der Verantwortliche für das Modul \"Automatisierung und Materialfluss in der Logistik\" ist Prof. Dr.-Ing. Kai Furmans. Das Modul gehört zur KIT-Fakultät für Maschinenbau des Instituts für Fördertechnik und Logistiksysteme. Zu diesem Modul gehören Lehrveranstaltungen wie Materialfluss in Produktion und Logistik sowie Automation and Autonomy in Logistics.",
+        "sources": [
+          {
+            "page": 319,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 30,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 154,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 253,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 299,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 253,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 244,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 30,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 30,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 330,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 272,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 160,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 70,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 276,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 115,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 18,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T11:11:08.616Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hallo, wer ist für das Modul Automatisierung und Materialfluss in der Logistik verantwortlich und welche Fächer enthält dieses Modul in meinem Studium Wirtschaftsingenieurwesen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Der Verantwortliche für das Modul \"Automatisierung und Materialfluss in der Logistik\" ist Prof. Dr.-Ing. Kai Furmans. Das Modul gehört zur KIT-Fakultät für Maschinenbau des Instituts für Fördertechnik und Logistiksysteme. Zu diesem Modul gehören Lehrveranstaltungen wie Materialfluss in Produktion und Logistik sowie Automation and Autonomy in Logistics.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 320
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 31
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 155
+          },
+          {
+            "id": 3,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 254
+          },
+          {
+            "id": 4,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 300
+          },
+          {
+            "id": 5,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 254
+          },
+          {
+            "id": 6,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 245
+          },
+          {
+            "id": 7,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 31
+          },
+          {
+            "id": 8,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 31
+          },
+          {
+            "id": 9,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 331
+          },
+          {
+            "id": 10,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 273
+          },
+          {
+            "id": 11,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 161
+          },
+          {
+            "id": 12,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 71
+          },
+          {
+            "id": 13,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 277
+          },
+          {
+            "id": 14,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 116
+          },
+          {
+            "id": 15,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 19
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Materialfluss in Produktion und Logistik hört sich sehr interessant an. Um was geht es dabei? "
+      },
+      {
+        "role": "assistant",
+        "content": "In dem Modul \"Materialfluss in Produktion und Logistik\" geht es um die Analyse und das Management von Stoffströmen in einem Produktions- und Logistiksystem. Die Schwerpunkte sind das strategische Produktionsmanagement, die Planung des Materialtransports und Automatisierungsprozesse. Zudem lernen Studierende, Materialflusselemente zu modellieren und parametrieren, ein Materialflusssystem zu konzipieren und die Leistungsfähigkeit einer Anlage zu beurteilen. Sie werden auch auf mögliche Risiken hingewiesen und lernen Methoden zur Risikobewertung und Sicherheitstechnik kennen.",
+        "sources": [
+          {
+            "page": 384,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 28,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 71,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 30,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 331,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 276,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 70,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 4,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T11:46:13.677Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hallo, wer ist für das Modul Automatisierung und Materialfluss in der Logistik verantwortlich und welche Fächer enthält dieses Modul in meinem Studium Wirtschaftsingenieurwesen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Der Verantwortliche für das Modul \"Automatisierung und Materialfluss in der Logistik\" ist Prof. Dr.-Ing. Kai Furmans. Das Modul gehört zur KIT-Fakultät für Maschinenbau des Instituts für Fördertechnik und Logistiksysteme. Zu diesem Modul gehören Lehrveranstaltungen wie Materialfluss in Produktion und Logistik sowie Automation and Autonomy in Logistics.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 320
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 31
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 155
+          },
+          {
+            "id": 3,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 254
+          },
+          {
+            "id": 4,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 300
+          },
+          {
+            "id": 5,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 254
+          },
+          {
+            "id": 6,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 245
+          },
+          {
+            "id": 7,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 31
+          },
+          {
+            "id": 8,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 31
+          },
+          {
+            "id": 9,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 331
+          },
+          {
+            "id": 10,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 273
+          },
+          {
+            "id": 11,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 161
+          },
+          {
+            "id": 12,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 71
+          },
+          {
+            "id": 13,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 277
+          },
+          {
+            "id": 14,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 116
+          },
+          {
+            "id": 15,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 19
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Materialfluss in Produktion und Logistik hört sich sehr interessant an. Um was geht es dabei? "
+      },
+      {
+        "role": "assistant",
+        "content": "In dem Modul \"Materialfluss in Produktion und Logistik\" geht es um die Analyse und das Management von Stoffströmen in einem Produktions- und Logistiksystem. Die Schwerpunkte sind das strategische Produktionsmanagement, die Planung des Materialtransports und Automatisierungsprozesse. Zudem lernen Studierende, Materialflusselemente zu modellieren und parametrieren, ein Materialflusssystem zu konzipieren und die Leistungsfähigkeit einer Anlage zu beurteilen. Sie werden auch auf mögliche Risiken hingewiesen und lernen Methoden zur Risikobewertung und Sicherheitstechnik kennen.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 385
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 29
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 72
+          },
+          {
+            "id": 3,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 31
+          },
+          {
+            "id": 4,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 332
+          },
+          {
+            "id": 5,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 277
+          },
+          {
+            "id": 6,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 71
+          },
+          {
+            "id": 7,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 5
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Okay, welche Fächer kann ich im Bereich Informatik schreiben,um direkt 9 Ects Punkte zu bekommen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Sie können das Modul \"Angewandte Informatik\" [M-WIWI-105112] wählen, das 9 Leistungspunkte hat. Sie müssen zwei Fächer aus der Liste der zur Verfügung stehenden Fächer wählen, da jedes Fach 4,5 Punkte bietet. Zum Beispiel können Sie \"Anwendungen der Künstlichen Intelligenz\" und \"Cybersicherheit\" oder \"Datenbanksysteme\" und \"Internet Computing\" wählen.",
+        "sources": [
+          {
+            "page": 25,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 23,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 23,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 143,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 38,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 501,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 46,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 25,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 136,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 125,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 302,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 383,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 138,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T15:06:08.541Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte bekomme ich im Fach Business Data Strategy? "
+      },
+      {
+        "role": "assistant",
+        "content": "Um diese Frage zu beantworten, benötige ich mehr Informationen, da Sie sowohl 9 als auch 3 Leistungspunkte angegeben haben. Bitte klären Sie, welche Punktzahl dem Fach Business Data Strategy entspricht.",
+        "sources": [
+          {
+            "page": 119,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 102,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-17T15:13:54.928Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte bekomme ich im Fach Business Data Strategy? "
+      },
+      {
+        "role": "assistant",
+        "content": "Um diese Frage zu beantworten, benötige ich mehr Informationen, da Sie sowohl 9 als auch 3 Leistungspunkte angegeben haben. Bitte klären Sie, welche Punktzahl dem Fach Business Data Strategy entspricht.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 120
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 103
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Gibt es dieses Fach überhaupt in meinem Studiengang Wirtschaftsingenieurwesen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Um welche Teilleistung oder welches Modul handelt es sich genau? Bitte geben Sie weitere Details an.",
+        "sources": [
+          {
+            "page": 1,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 384,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 194,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 384,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 377,
+            "source": "mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 221,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 43,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 96,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 41,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 391,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 401,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 39,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 13,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 105,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 61,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 501,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 44,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 458,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 86,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          },
+          {
+            "page": 390,
+            "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T11:57:44.667Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was kannst du mir alles über das Modul Financial Data Science in meinem Studiengang Wirtschaftsingenieurwesen sagen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Es gab ein Problem beim RAG-Abruf.",
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Was kannst du mir alles über das Modul Financial Data Science in meinem Studiengang Wirtschaftsingenieurwesen sagen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Es gab ein Problem beim RAG-Abruf.",
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Was kannst du mir alles über das Modul Financial Data Science in meinem Studiengang Wirtschaftsingenieurwesen sagen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Das Modul Financial Data Science [M-WIWI-105610] ist Teil des Studiengangs Wirtschaftsingenieurwesen B.Sc. an der KIT-Fakultät für Wirtschaftswissenschaften. Verantwortlich dafür ist Prof. Dr. Maxim Ulrich. Es wird jedes Sommersemester angeboten und dauert ein Semester.\n\nArbeitsaufwand: Das Modul erfordert einen gesamten Arbeitsaufwand von ca. 270 Stunden, was 9 Leistungspunkten entspricht. Dies beinhaltet Selbststudium, programmiertechnische Übungen in Python, wöchentliche Übungsaufgaben, Vorbereitung auf Fallstudien und Abschlussprüfung.\n\nPrüfung: Die Prüfung erfolgt in Form einer Prüfungsleistung anderer Art - genaue Details dazu werden zu Beginn der Lehrveranstaltung bekannt gegeben. Es gibt keine besonderen Voraussetzungen für das Modul.\n\nSprache: Das Modul wird auf Englisch durchgeführt.\n\nInhalt: Der Inhalt des Moduls umfasst eine Einführung in die datengetriebene Finanzanalyse und verschiedene Methoden des maschinellen Lernens für Kapitalmärkte. Es werden praktische Fähigkeiten in Python und Anwendung auf reale Datenfälle vermittelt.\n\nZiele: Nach Abschluss des Moduls sollten die Studierenden in der Lage sein, moderne Methoden des maschinellen Lernens auf reale Finanzdaten anzuwenden.\n\nZum Modul gehört auch eine Teilleistung: Financial Data Science [T-WIWI-111238], die ebenfalls 9 Leistungspunkte hat und als Prüfungsleistung anderer Art abgeschlossen wird."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie spezifische Informationen über das Modul Financial Data Science im Studiengang Wirtschaftsingenieurwesen liefert, einschließlich des Verantwortlichen, des Angebotszeitraums und des Arbeitsaufwands. Zudem werden die Prüfungsform, die Unterrichtssprache und die Lerninhalte genannt, was den Kontext der Anfrage umfassend abdeckt. Die Details zu den Teilleistungen und den damit verbundenen Leistungspunkten unterstützen die Aussage und zeigen die Struktur des Moduls auf.",
+    "sources": [
+      {
+        "page": 236,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 52,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 52,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 59,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 236,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 59,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 58,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 17,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 21,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 22,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 1,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 3,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T12:01:29.701Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was kannst du mir alles über das Modul Financial Data Science in meinem Studiengang Wirtschaftsingenieurwesen sagen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Das Modul Financial Data Science ist ein Teil deines Wirtschaftsingenieurwissenschafts-Studiums und wird von Prof. Dr. Maxim Ulrich betreut. Es ist ein Bestandteil des Vertiefungsprogramms Betriebswirtschaftslehre und beginnt jedes Sommersemester. Es ist auf einem Level von 3 und besteht aus einem Semester, mit 9 ECTS-Punkten. \n\nDer Arbeitsaufwand beträgt ca. 270 Stunden, die sich aus Präsenzzeit und Selbststudium zusammensetzen. Im Rahmen dieses Moduls wirst du die Lehr- und Lernformen Vorlesung, Übung und Exkursion durchlaufen. Die Prüfungsleistung wird in Form einer Prüfungsleistung anderer Art erbracht. \n\nDie Veranstaltung zielt darauf ab, die Studierenden in datengetriebene Finanzanalysen einzuführen und eine breite Palette von Machine Learning-Methoden für Kapitalmärkte zu vermitteln. Du wirst u.a. das Datenmanagement, Regressionsanalysen und constrained Optimization kennen lernen und mit Programmbibliotheken wie NumPy, Pandas, PyTorch arbeiten.\n\nDie Prüfung erfolgt in Form einer Prüfungsleistung anderer Art, und es gibt keine speziellen Voraussetzungen um daran teilzunehmen. Das Modul ist auf Englisch. \n\nDie genauen Details, wie die Prüfungsleistung aussieht, werden zu Beginn der Lehrveranstaltung bekanntgegeben."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie spezifische Informationen über das Modul Financial Data Science enthält, die im Kontext des Studiengangs Wirtschaftsingenieurwesen relevant sind. Sie nennt den verantwortlichen Professor, die Struktur des Moduls, den Arbeitsaufwand sowie die Lehr- und Lernformen, die im Modul angeboten werden. Zudem wird auf die Prüfungsleistung und die Inhalte des Moduls eingegangen, was die Antwort umfassend und informativ macht.",
+    "sources": [
+      {
+        "page": 236,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 52,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 52,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 59,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 236,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 59,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 58,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 17,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 21,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 22,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 1,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 3,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T12:10:59.573Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was kannst du mir alles über das Modul Financial Data Science in meinem Studiengang Wirtschaftsingenieurwesen sagen?"
+      },
+      {
+        "role": "assistant",
+        "content": "Das Modul \"Financial Data Science\" (M-WIWI-105610) ist Teil des Studiengangs Wirtschaftsingenieurwesen an der KIT-Fakultät für Wirtschaftswissenschaften. Es ist verantwortet von Prof. Dr. Maxim Ulrich und wird im Sommersemester angeboten. \n\nDer Arbeitsaufwand beträgt 270 Stunden, was 9 Leistungspunkten entspricht. Der Unterricht beinhaltet Vorlesungen, Übungen und eine Exkursion. Der Schwerpunkt liegt auf der Anwendung moderner Machine-Learning-Bibliotheken wie PyTorch und TensorFlow, Real-World-Datensets und empirischer Finanzanalyse. \n\nIm Kurs werden zentrale Themen wie die Prognose von Aktien- und Optionsrenditen, Optionsbewertung, Risikoprämien und Portfoliokonstruktion behandelt. Die Veranstaltung findet auf Englisch statt.\n\nDie Teilleistung \"Financial Data Science\" (T-WIWI-111238) ist ein integraler Bestandteil des Moduls. Prüfungsleistungen werden in Form von Prüfungen anderer Art erbracht und es werden Drittelnoten vergeben. \n\nEs sind keine Voraussetzungen erforderlich, um an diesem Modul teilzunehmen. Am Ende des Kurses sollten Studierende in der Lage sein, moderne Methoden des maschinellen Lernens auf reale Finanzmarktdaten anzuwenden und den Anforderungen einer zunehmend datenorientierten Finanzwelt gerecht zu werden.\n"
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie spezifische Informationen über das Modul \"Financial Data Science\" im Studiengang Wirtschaftsingenieurwesen liefert, einschließlich des Moduls, der verantwortlichen Person und des Arbeitsaufwands. Zudem werden die Lehrinhalte und die Prüfungsformate erwähnt, was den Kontext der Anfrage nach Details zu diesem Modul unterstützt. Die Erwähnung der Lehrmethoden und der Themen, die im Kurs behandelt werden, zeigt, dass die Antwort auf die Bedürfnisse eines Studierenden zugeschnitten ist, der mehr über das Modul erfahren möchte.",
+    "sources": [
+      {
+        "page": 236,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 52,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 52,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 59,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 236,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 59,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 58,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 17,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 21,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 22,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 1,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 3,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-18T12:19:29.402Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Hallo, wer ist für das Modul Automatisierung und Materialfluss in der Logistik verantwortlich und welche Fächer enthält dieses Modul in meinem Studium Wirtschaftsingenieurwesen? \n"
+      },
+      {
+        "role": "assistant",
+        "content": "Prof. Dr.-Ing. Kai Furmans ist für das Modul Automatisierung und Materialfluss in der Logistik verantwortlich. Dieses Modul enthält die Fächer:\n\n- Materialfluss in Produktion und Logistik\n- Grundlagen der Technischen Logistik\n- Fördertechnik und Logistiksysteme\n\nMöglicherweise sind noch weitere Fächer Teil des Moduls, es wird empfohlen, die genauen Informationen aus dem Studienplan zu entnehmen."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie den Namen des verantwortlichen Professors, Prof. Dr.-Ing. Kai Furmans, korrekt angibt, was durch die bereitgestellten Informationen im Kontext bestätigt wird. Zudem listet die Antwort spezifische Fächer auf, die Teil des Moduls \"Automatisierung und Materialfluss in der Logistik\" sind, was mit den im Kontext genannten Lehrveranstaltungen übereinstimmt. Die Empfehlung, den Studienplan für genauere Informationen zu konsultieren, ist ebenfalls sinnvoll, da dies eine übliche Vorgehensweise in akademischen Kontexten ist.",
+    "sources": [
+      {
+        "page": 319,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 154,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 30,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 253,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 299,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 253,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 244,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 30,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 330,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 272,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 160,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 70,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 276,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 115,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 18,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T11:31:03.308Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was ist die maximale Studienzeitdauer für mein Studiengang Wirtschaftsingenieurwesen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Die maximale Studiendauer für den Studiengang Wirtschaftsingenieurwesen beträgt 9 Semester."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie die maximale Studiendauer von 9 Semestern für den Studiengang Wirtschaftsingenieurwesen korrekt angibt. Der Kontext erwähnt, dass die Regelstudienzeit 6 Semester beträgt, was die Notwendigkeit einer maximalen Studiendauer von 9 Semestern erklärt. Somit ist die Antwort konsistent mit den gegebenen Informationen.",
+    "sources": [
+      {
+        "page": 1,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 1,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 1,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 8,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T11:33:24.314Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was ist die maximale Studienzeitdauer für mein Studiengang Wirtschaftsingenieurwesen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Die maximale Studiendauer für den Studiengang Wirtschaftsingenieurwesen beträgt 9 Semester.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 3,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 9
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte müsste ich in jedem der 9 Semester erreichen, wenn ich mir die Gesamt ECTS Punktanzahl gleichmäßig verteilen würde?"
+      },
+      {
+        "role": "assistant",
+        "content": "Du müsstest in jedem der 9 Semester 30 ECTS Punkte erreichen."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da die Gesamtanzahl von 270 ECTS-Punkten durch die 9 Semester geteilt wird, was zu einem Ergebnis von 30 ECTS-Punkten pro Semester führt. Die Berechnung ist einfach und entspricht der Anforderung, die Punkte gleichmäßig zu verteilen. Somit ist die Antwort mathematisch korrekt und im Kontext der Frage sinnvoll.",
+    "sources": [
+      {
+        "page": 107,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T11:34:53.837Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was ist die maximale Studienzeitdauer für mein Studiengang Wirtschaftsingenieurwesen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Die maximale Studiendauer für den Studiengang Wirtschaftsingenieurwesen beträgt 9 Semester.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 3,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 9
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte müsste ich in jedem der 9 Semester erreichen, wenn ich mir die Gesamt ECTS Punktanzahl gleichmäßig verteilen würde?"
+      },
+      {
+        "role": "assistant",
+        "content": "Du müsstest in jedem der 9 Semester 30 ECTS Punkte erreichen.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 108
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte hätte ich dann insgesamt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Die ECTS-Punkte entsprechen den Leistungspunkten. In deinem Fall hättest du insgesamt 36 ECTS."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie die ECTS-Punkte direkt mit den Leistungspunkten verknüpft, die im Kontext erwähnt werden. Der Gesamtaufwand und die Verteilung der Leistungspunkte auf die Semester unterstützen die Berechnung der insgesamt erreichten ECTS-Punkte. Zudem wird im Kontext deutlich, dass die Summe der Leistungspunkte zu den genannten 36 ECTS führt.",
+    "sources": [
+      {
+        "page": 40,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 383,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 154,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 24,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 97,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 382,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 383,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 501,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 108,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 118,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 221,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 163,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 326,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 198,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 164,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 408,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 299,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T11:50:27.952Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was ist die maximale Studienzeitdauer für mein Studiengang Wirtschaftsingenieurwesen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Die maximale Studiendauer für den Studiengang Wirtschaftsingenieurwesen beträgt 9 Semester.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 3,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 9
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte müsste ich in jedem der 9 Semester erreichen, wenn ich mir die Gesamt ECTS Punktanzahl gleichmäßig verteilen würde?"
+      },
+      {
+        "role": "assistant",
+        "content": "Du müsstest in jedem der 9 Semester 30 ECTS Punkte erreichen.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 108
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte hätte ich dann insgesamt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Die ECTS-Punkte entsprechen den Leistungspunkten. In deinem Fall hättest du insgesamt 36 ECTS.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 41
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 384
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 155
+          },
+          {
+            "id": 3,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 25
+          },
+          {
+            "id": 4,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 98
+          },
+          {
+            "id": 5,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 383
+          },
+          {
+            "id": 6,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 384
+          },
+          {
+            "id": 7,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 502
+          },
+          {
+            "id": 8,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 109
+          },
+          {
+            "id": 9,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 119
+          },
+          {
+            "id": 10,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 222
+          },
+          {
+            "id": 11,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 164
+          },
+          {
+            "id": 12,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 327
+          },
+          {
+            "id": 13,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 199
+          },
+          {
+            "id": 14,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 165
+          },
+          {
+            "id": 15,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 409
+          },
+          {
+            "id": 16,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 300
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie schwierig ist dieser Studiengang im Vergleich zu anderen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Die Schwierigkeit eines Studiengangs kann individuell variieren und hängt stark von den persönlichen Interessen und Fähigkeiten ab. Es ist wichtig, sich gut über den Inhalt und die Anforderungen des Studiengangs zu informieren, um eine fundierte Entscheidung treffen zu können."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie die subjektive Natur der Schwierigkeit eines Studiengangs betont und darauf hinweist, dass persönliche Interessen und Fähigkeiten eine entscheidende Rolle spielen. Zudem wird die Bedeutung der Informationsbeschaffung über den Studiengang hervorgehoben, was für eine fundierte Einschätzung notwendig ist. Diese Aspekte sind relevant, um die Frage nach der Vergleichbarkeit der Schwierigkeit zu beantworten.",
+    "sources": []
+  },
+  {
+    "timestamp": "2025-07-24T11:53:03.476Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Was ist die maximale Studienzeitdauer für mein Studiengang Wirtschaftsingenieurwesen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Die maximale Studiendauer für den Studiengang Wirtschaftsingenieurwesen beträgt 9 Semester.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 2
+          },
+          {
+            "id": 3,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 9
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte müsste ich in jedem der 9 Semester erreichen, wenn ich mir die Gesamt ECTS Punktanzahl gleichmäßig verteilen würde?"
+      },
+      {
+        "role": "assistant",
+        "content": "Du müsstest in jedem der 9 Semester 30 ECTS Punkte erreichen.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 108
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie viele ECTS Punkte hätte ich dann insgesamt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Die ECTS-Punkte entsprechen den Leistungspunkten. In deinem Fall hättest du insgesamt 36 ECTS.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 41
+          },
+          {
+            "id": 1,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 384
+          },
+          {
+            "id": 2,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 155
+          },
+          {
+            "id": 3,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 25
+          },
+          {
+            "id": 4,
+            "file": "mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 98
+          },
+          {
+            "id": 5,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 383
+          },
+          {
+            "id": 6,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 384
+          },
+          {
+            "id": 7,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 502
+          },
+          {
+            "id": 8,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 109
+          },
+          {
+            "id": 9,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 119
+          },
+          {
+            "id": 10,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 222
+          },
+          {
+            "id": 11,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 164
+          },
+          {
+            "id": 12,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 327
+          },
+          {
+            "id": 13,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 199
+          },
+          {
+            "id": 14,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 165
+          },
+          {
+            "id": 15,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 409
+          },
+          {
+            "id": 16,
+            "file": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf",
+            "page": 300
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Wie schwierig ist dieser Studiengang im Vergleich zu anderen?\n"
+      },
+      {
+        "role": "assistant",
+        "content": "Die Schwierigkeit eines Studiengangs kann individuell variieren und hängt stark von den persönlichen Interessen und Fähigkeiten ab. Es ist wichtig, sich gut über den Inhalt und die Anforderungen des Studiengangs zu informieren, um eine fundierte Entscheidung treffen zu können.",
+        "sources": [],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Kannst du mir zwei verschiedene Teilleistungen im Bereich Betriebswirtschaftslehre nennen, die jeweils 4,5 Ects Punkte bringen?"
+      },
+      {
+        "role": "assistant",
+        "content": "1. \"T-WIWI-102704 Standortplanung und strategisches Supply Chain Management\" mit 4,5 Leistungspunkten\n\n2. \"T-WIWI-106545 Optimierungsansätze unter Unsicherheit\" mit ebenfalls 4,5 Leistungspunkten."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie zwei spezifische Teilleistungen im Bereich Betriebswirtschaftslehre nennt, die jeweils mit 4,5 ECTS-Punkten bewertet sind, was der Anfrage entspricht. Zudem sind die genannten Kurse im Kontext der verfügbaren Teilleistungen aufgeführt, was ihre Relevanz und Verfügbarkeit unterstreicht. Die Struktur der Antwort entspricht dem Format der Anfrage, indem sie klare und präzise Informationen liefert.",
+    "sources": [
+      {
+        "page": 302,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 130,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 75,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 289,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 383,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 53,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 36,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 27,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 501,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T14:52:14.952Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welche wesentliche Fächer werden in meinem Studiengang Wirtschaftsingenieuerwesen behandelt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dies ist eine allgemeine Frage zum Studiengang. Die wesentlichen Fächer des Studiengangs Wirtschaftsingenieurwesen umfassen Betriebswirtschaftslehre, Volkswirtschaftslehre, Informatik, Operations Research und Ingenieurwissenschaften. Es besteht zudem die Möglichkeit, im Vertiefungsstudium Schwerpunkte durch Wahlmöglichkeiten zu setzen."
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie die wesentlichen Fächer des Studiengangs Wirtschaftsingenieurwesen korrekt auflistet, die im Kontext als zentral für die interdisziplinäre Ausbildung hervorgehoben werden. Zudem wird im Kontext erwähnt, dass das Studium durch Wahlmöglichkeiten im Vertiefungsstudium individualisiert werden kann, was die Aussage über die Möglichkeit zur Schwerpunktsetzung unterstützt. Die genannten Fächer spiegeln die thematischen Kernbereiche wider, die im Kontext beschrieben sind.",
+    "sources": [
+      {
+        "page": 1,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 278,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 1,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 553,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 70,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 221,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 11,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 34,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 459,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 40,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 65,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 418,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 465,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 13,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 43,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 313,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 172,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 41,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 446,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 449,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 488,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 464,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-07-24T15:16:55.738Z",
+    "messages": [
+      {
+        "role": "user",
+        "content": "Welche wesentliche Fächer werden in meinem Studiengang Wirtschaftsingenieuerwesen behandelt?"
+      },
+      {
+        "role": "assistant",
+        "content": "Dies ist eine allgemeine Frage zum Studiengang. Die wesentlichen Fächer des Studiengangs Wirtschaftsingenieurwesen umfassen Betriebswirtschaftslehre, Volkswirtschaftslehre, Informatik, Operations Research und Ingenieurwissenschaften. Es besteht zudem die Möglichkeit, im Vertiefungsstudium Schwerpunkte durch Wahlmöglichkeiten zu setzen.",
+        "sources": [
+          {
+            "id": 0,
+            "file": "Modulhandbuch",
+            "page": 2
+          },
+          {
+            "id": 1,
+            "file": "Modulhandbuch",
+            "page": 279
+          },
+          {
+            "id": 2,
+            "file": "Modulhandbuch",
+            "page": 2
+          },
+          {
+            "id": 3,
+            "file": "Modulhandbuch",
+            "page": 554
+          },
+          {
+            "id": 4,
+            "file": "Modulhandbuch",
+            "page": 71
+          },
+          {
+            "id": 5,
+            "file": "Modulhandbuch",
+            "page": 222
+          },
+          {
+            "id": 6,
+            "file": "Modulhandbuch",
+            "page": 12
+          },
+          {
+            "id": 7,
+            "file": "Modulhandbuch",
+            "page": 35
+          },
+          {
+            "id": 8,
+            "file": "Modulhandbuch",
+            "page": 460
+          },
+          {
+            "id": 9,
+            "file": "Modulhandbuch",
+            "page": 41
+          },
+          {
+            "id": 10,
+            "file": "Modulhandbuch",
+            "page": 66
+          },
+          {
+            "id": 11,
+            "file": "Modulhandbuch",
+            "page": 419
+          },
+          {
+            "id": 12,
+            "file": "Modulhandbuch",
+            "page": 466
+          },
+          {
+            "id": 13,
+            "file": "Modulhandbuch",
+            "page": 14
+          },
+          {
+            "id": 14,
+            "file": "Modulhandbuch",
+            "page": 44
+          },
+          {
+            "id": 15,
+            "file": "Modulhandbuch",
+            "page": 314
+          },
+          {
+            "id": 16,
+            "file": "Modulhandbuch",
+            "page": 173
+          },
+          {
+            "id": 17,
+            "file": "Modulhandbuch",
+            "page": 42
+          },
+          {
+            "id": 18,
+            "file": "Modulhandbuch",
+            "page": 447
+          },
+          {
+            "id": 19,
+            "file": "Modulhandbuch",
+            "page": 450
+          },
+          {
+            "id": 20,
+            "file": "Modulhandbuch",
+            "page": 489
+          },
+          {
+            "id": 21,
+            "file": "Modulhandbuch",
+            "page": 465
+          }
+        ],
+        "loading": false
+      },
+      {
+        "role": "user",
+        "content": "Kannst du mir eine Teilleistung aus dem Bereich Volkswirtschaftslehre nennen und mir sagen, um was es inhaltlich darin geht? "
+      },
+      {
+        "role": "assistant",
+        "content": "Ja, eine Beispiel-Teilleistung aus dem Bereich Volkswirtschaftslehre ist die \"Volkswirtschaftslehre I: Mikroökonomie\" (T-WIWI-102708). In diesem Kurs werden fundierte Grundlagenkenntnisse in der mikroökonomischen Theorie vermittelt. Es gibt zwei Hauptteile der Vorlesung: die mikroökonomische Entscheidungstheorie und die Markttheorie.\n\nIn der mikroökonomischen Entscheidungstheorie geht es um Haushalts- und Firmenentscheidungen, also wie Einzelpersonen oder Unternehmen Entscheidungen treffen, um ihren Nutzen oder Gewinn zu maximieren.\n\nIm Teil zur Markttheorie werden Gleichgewichte und Effizienz auf Konkurrenzmärkten behandelt. Es geht also darum, wie sich Preise und Mengen auf Märkten durch das Zusammenspiel von Angebot und Nachfrage ergeben.\n\nZum Abschluss der Vorlesung werden Probleme des unvollständigen Wettbewerbs (Oligopolmärkte) sowie Grundzüge der Spieltheorie und der Wohlfahrtstheorie vermittelt. Es geht also auch um Fälle, in denen der Markt nicht perfekt funktioniert und welche Konsequenzen das hat. Zudem wird untersucht, wie strategische Interaktionen zwischen Akteuren modelliert werden können (Spieltheorie) und was gesamtwirtschaftlich optimale Zustände sind (Wohlfahrtstheorie).\n"
+      }
+    ],
+    "justification": "Die Antwort ist plausibel, da sie sich auf eine spezifische Teilleistung im Bereich Volkswirtschaftslehre bezieht, die im Kontext der Frage nach einer inhaltlichen Beschreibung verlangt wird. Die detaillierte Erklärung der mikroökonomischen Entscheidungstheorie und der Markttheorie zeigt, dass der Antwortgeber über fundierte Kenntnisse des Themas verfügt, was im Rahmen einer akademischen Diskussion zu erwarten ist. Zudem wird die Struktur der Vorlesung klar umrissen, was die Relevanz und den Zusammenhang zur gestellten Frage unterstreicht.",
+    "sources": [
+      {
+        "page": 536,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 536,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 548,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 192,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 536,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 536,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 540,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 192,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 18,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 110,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 1,
+        "source": "mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 221,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 104,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 43,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 456,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 470,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 553,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 130,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 139,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 410,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 118,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 536,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 9,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 96,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 165,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      },
+      {
+        "page": 69,
+        "source": "C:\\Users\\denun\\Documents\\Universitaet\\Master\\Masterarbeit\\Development\\05_Programmierung\\tacit-knowledge-chatbot\\backend\\docs\\mhb_wiing_BSc_de_aktuell.pdf"
+      }
+    ]
   }
 ]

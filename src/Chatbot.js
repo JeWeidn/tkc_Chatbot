@@ -35,22 +35,24 @@ function Chatbot() {
       });
       if (!res.ok) throw new Error("RAG-Endpoint nicht erreichbar");
 
-      const { result, source_documents = [] } = await res.json();
+      const { answer, sources = [] } = await res.json();
 
       /* Quellen mappen */
-      const sources = source_documents.map((s, idx) => ({
-        id: idx,
-        file: s.source,
-        page: Number(s.page) + 1,
-      }));
+      const mappedSources = sources
+        .filter((s) => s.page !== "–")            // leere raus
+        .map((s, idx) => ({
+          id:   idx,
+          file: s.source.endsWith(".pdf") ? "Modulhandbuch" : s.source,
+          page: Number(s.page) + 1,
+        }));
 
       /* 3) Placeholder ersetzen */
       setChatHistory((prev) => {
         const newHist = [...prev];
         newHist[newHist.length - 1] = {
           role: "assistant",
-          content: result,
-          sources,
+          content: answer,
+          sources: mappedSources,
           loading: false,
         };
         return newHist;
@@ -101,15 +103,13 @@ function Chatbot() {
 
 
               {/* Quellenanzeige */}
-              {msg.role === "assistant" &&
-                msg.sources &&
-                msg.sources.length > 0 && (
-                  <div className="sources">
-                    {msg.sources.map((s) => (
-                      <span key={s.id}>
-                        [{s.file}, S.&nbsp;{s.page}]
-                      </span>
-                    ))}
+               {msg.role === "assistant" && msg.sources?.length > 0 && (
+                <div className="sources">
+                  {msg.sources.map((s) => (
+                    <span key={s.id}>
+                      [{s.file}, S.&nbsp;{s.page}]
+                    </span>
+                  ))}
                   </div>
                 )}
             </div>
