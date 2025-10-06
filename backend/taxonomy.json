@@ -1,0 +1,11 @@
+{
+  "dimensions": {
+    "Prüfung": ["Lernstrategie","Schwierigkeitsgrad","Zeitaufwand","Prüfungsformat","Lerntipps","Altklausuren","Übungsähnlichkeit"],
+    "Vorlesung": ["Modus","Terminlage","Prüfungsrelevanz","Lernwert","Interaktivität"],
+    "Kombinierbarkeit": ["Passende-Module","Synergien","Konflikte","Reihenfolge"],
+    "Berufsfelder": ["Rollen","Branchen","Tools"],
+    "Zukunftsrelevanz": ["Technologien","Trends","Transfer"],
+    "Lehrperson/Institut": ["Sympathie","Lehrstil","Betreuung","Fairness"],
+    "Lernmaterialien": ["Verfügbarkeit","Qualität","Forenhinweise","ILIAS-Nutzen"]
+  }
+}

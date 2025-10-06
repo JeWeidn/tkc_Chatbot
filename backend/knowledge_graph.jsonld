@@ -1,0 +1,1940 @@
+[
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-112115",
+    "name": "Teilleistung: Künstliche Intelligenz in der Produktion [T-MACH-112115]",
+    "examType": "schriftlich",
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758274675491_yvck2o"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-112115",
+    "name": "Teilleistung: Künstliche Intelligenz in der Produktion [T-MACH-112115]",
+    "examType": "schriftlich",
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758274675491_yvck2o"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-112115",
+    "name": "Teilleistung: Künstliche Intelligenz in der Produktion [T-MACH-112115]",
+    "examType": "schriftlich",
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758274675491_yvck2o"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102870",
+    "name": "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758283718871_83tqwb"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102870",
+    "name": "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]",
+    "examType": "schriftlich",
+    "difficulty": 4.5,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758283718871_83tqwb"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102870",
+    "name": "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]",
+    "examType": "schriftlich",
+    "difficulty": 4.5,
+    "prepWeeks": 5,
+    "hoursPerWeek": 12,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758283718871_83tqwb"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102870",
+    "name": "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758283718871_83tqwb"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102870",
+    "name": "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [
+      "Algorithmen beherrschen"
+    ],
+    "evidence": "sess_1758283718871_83tqwb"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102870",
+    "name": "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [
+      "Algorithmen beherrschen"
+    ],
+    "evidence": "sess_1758283718871_83tqwb"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-103067",
+    "name": "Teilleistung: Bachelorarbeit [T-WIWI-103067]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758802885674_rra0i2"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102758",
+    "name": "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758808528699_f3i9fs"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102758",
+    "name": "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]",
+    "examType": "schriftlich",
+    "difficulty": 4.5,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758808528699_f3i9fs"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102758",
+    "name": "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]",
+    "examType": "schriftlich",
+    "difficulty": 4.5,
+    "prepWeeks": 10,
+    "hoursPerWeek": 12,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758808528699_f3i9fs"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102758",
+    "name": "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]",
+    "examType": "schriftlich",
+    "difficulty": 4.5,
+    "prepWeeks": 10,
+    "hoursPerWeek": 12,
+    "strategy": [],
+    "material": [
+      "Übungsaufgaben"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Aufgaben sind den Übungsaufgaben ähnlich, aber etwas schwerer – übe die Übungsaufgaben gründlich und rechne mit einem Tick mehr Schwierigkeit."
+    ],
+    "evidence": "sess_1758808528699_f3i9fs"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102758",
+    "name": "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]",
+    "examType": "schriftlich",
+    "difficulty": 4.5,
+    "prepWeeks": 10,
+    "hoursPerWeek": 12,
+    "strategy": [],
+    "material": [
+      "Übungsaufgaben"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Aufgaben sind den Übungsaufgaben ähnlich, aber etwas schwerer – übe die Übungsaufgaben gründlich und rechne mit einem Tick mehr Schwierigkeit."
+    ],
+    "evidence": "sess_1758808528699_f3i9fs"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102758",
+    "name": "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1758808528699_f3i9fs"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-106546",
+    "name": "Teilleistung: Einführung in die Stochastische Optimierung [T-WIWI-106546]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Mehr Theorieanteil als erwartet",
+      "Zu wenig Aufgaben geübt"
+    ],
+    "tip": [
+      "Vorab mehr Aufgaben üben",
+      "Theorieanteil gezielt vorbereiten"
+    ],
+    "evidence": "sess_1758832940422_jo25iu"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-106546",
+    "name": "Teilleistung: Einführung in die Stochastische Optimierung [T-WIWI-106546]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Mehr Theorieanteil als erwartet",
+      "Zu wenig Aufgaben geübt"
+    ],
+    "tip": [
+      "Vorab mehr Aufgaben üben",
+      "Theorieanteil gezielt vorbereiten"
+    ],
+    "evidence": "sess_1758832940422_jo25iu"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-106546",
+    "name": "Teilleistung: Einführung in die Stochastische Optimierung [T-WIWI-106546]",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Mehr Theorieanteil als erwartet",
+      "Zu wenig Aufgaben geübt",
+      "Weniger Aufgaben mit konkreten Zahlen als erwartet"
+    ],
+    "tip": [
+      "Vorab mehr Aufgaben üben",
+      "Theorieanteil gezielt vorbereiten"
+    ],
+    "evidence": "sess_1758832940422_jo25iu"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": null,
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": null,
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Bonusübung ist mit hohem Aufwand verbunden"
+    ],
+    "tip": [],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": null,
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Bonusübung ist mit hohem Aufwand verbunden",
+      "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen"
+    ],
+    "tip": [
+      "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet"
+    ],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": null,
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Bonusübung ist mit hohem Aufwand verbunden",
+      "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen"
+    ],
+    "tip": [
+      "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet"
+    ],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": "schriftlich",
+    "difficulty": 4,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Bonusübung ist mit hohem Aufwand verbunden",
+      "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen"
+    ],
+    "tip": [
+      "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet"
+    ],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": "schriftlich",
+    "difficulty": 4,
+    "prepWeeks": 6,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Bonusübung ist mit hohem Aufwand verbunden",
+      "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen"
+    ],
+    "tip": [
+      "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet"
+    ],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": "schriftlich",
+    "difficulty": 4,
+    "prepWeeks": 6,
+    "hoursPerWeek": 7.5,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Bonusübung ist mit hohem Aufwand verbunden",
+      "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen"
+    ],
+    "tip": [
+      "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet"
+    ],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": "schriftlich",
+    "difficulty": 3,
+    "prepWeeks": 6,
+    "hoursPerWeek": 7.5,
+    "strategy": [
+      "Altklausuren in Studydrive bearbeiten",
+      "Übungen bearbeiten",
+      "Folien verstehen"
+    ],
+    "material": [
+      "Altklausuren (Studydrive)",
+      "Übungen",
+      "Folien"
+    ],
+    "pitfall": [
+      "Bonusübung ist mit hohem Aufwand verbunden",
+      "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen"
+    ],
+    "tip": [
+      "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet"
+    ],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": null,
+    "difficulty": 3.7,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102643",
+    "name": "Teilleistung: Derivate",
+    "examType": null,
+    "difficulty": 3.7,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [
+      "Zeit ist sehr knapp"
+    ],
+    "tip": [],
+    "evidence": "sess_1759338505219_dg0fce"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": "schriftlich",
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "auswendig lernen"
+    ],
+    "material": [],
+    "pitfall": [
+      "großer Stoffumfang"
+    ],
+    "tip": [],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": "schriftlich",
+    "difficulty": 3,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "auswendig lernen"
+    ],
+    "material": [],
+    "pitfall": [
+      "großer Stoffumfang"
+    ],
+    "tip": [],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": "schriftlich",
+    "difficulty": 3,
+    "prepWeeks": 8,
+    "hoursPerWeek": 12,
+    "strategy": [
+      "auswendig lernen"
+    ],
+    "material": [],
+    "pitfall": [
+      "großer Stoffumfang"
+    ],
+    "tip": [],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": "schriftlich",
+    "difficulty": 3,
+    "prepWeeks": 8,
+    "hoursPerWeek": 12,
+    "strategy": [
+      "auswendig lernen"
+    ],
+    "material": [],
+    "pitfall": [
+      "großer Stoffumfang"
+    ],
+    "tip": [],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Vorlesungsfolien gründlich durcharbeiten",
+      "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Online-Portale (zusätzliche Materialien)"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab",
+      "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind"
+    ],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Vorlesungsfolien gründlich durcharbeiten",
+      "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Online-Portale (zusätzliche Materialien)",
+      "Stift",
+      "Taschenrechner"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab",
+      "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind"
+    ],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": null,
+    "difficulty": 3,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Vorlesungsfolien gründlich durcharbeiten",
+      "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Online-Portale (zusätzliche Materialien)",
+      "Stift",
+      "Taschenrechner"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab",
+      "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind"
+    ],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": null,
+    "difficulty": 3,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Vorlesungsfolien gründlich durcharbeiten",
+      "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Online-Portale (zusätzliche Materialien)",
+      "Stift",
+      "Taschenrechner"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab",
+      "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind"
+    ],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-MACH-109054",
+    "name": "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759425815802_v3qwui"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Fokus auf Verständnisfragen und konzeptionelles Lernen",
+      "Nur wenige Rechenaufgaben gezielt üben"
+    ],
+    "material": [],
+    "pitfall": [
+      "Zu viel Zeit in Rechenaufgaben investieren"
+    ],
+    "tip": [
+      "Kernkonzepte und Zusammenhänge verstehen und in eigenen Worten erklären können",
+      "Basisrechnungen kurz wiederholen, da sie nur selten vorkommen"
+    ],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Altklausuren anschauen",
+      "Gedächtnisprotokolle anschauen"
+    ],
+    "material": [
+      "Altklausuren",
+      "Gedächtnisprotokolle"
+    ],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Altklausuren anschauen",
+      "Gedächtnisprotokolle anschauen",
+      "Aufgabenmuster aus vergangenen Semestern erkennen"
+    ],
+    "material": [
+      "Altklausuren",
+      "Gedächtnisprotokolle"
+    ],
+    "pitfall": [
+      "Sich ausschließlich auf identische Wiederholungen verlassen"
+    ],
+    "tip": [
+      "Aufgaben wiederholen sich häufig über die Semester; nutze Altklausuren und Protokolle gezielt",
+      "Rechne mit leichten Abwandlungen der Aufgaben und übe Variationen"
+    ],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": null,
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": "schriftlich",
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": "schriftlich",
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": "schriftlich",
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Vorlesung besuchen"
+    ],
+    "material": [
+      "Vorlesung"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Vorlesung besuchen (lohnt sich, kurzweilig)"
+    ],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-111594",
+    "name": "Management und Marketing",
+    "examType": "schriftlich",
+    "difficulty": null,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Vorlesung besuchen"
+    ],
+    "material": [
+      "Vorlesung"
+    ],
+    "pitfall": [
+      "zu langsam arbeiten",
+      "Tempo unterschätzen"
+    ],
+    "tip": [
+      "Vorlesung besuchen (lohnt sich, kurzweilig)",
+      "schnell arbeiten"
+    ],
+    "evidence": "sess_1759523375240_alsih3"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102805",
+    "name": "Teilleistung: Marketing Mix",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [],
+    "material": [],
+    "pitfall": [],
+    "tip": [],
+    "evidence": "sess_1759676725440_3p9f3k"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102805",
+    "name": "Teilleistung: Marketing Mix",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Stoff verstehen",
+      "Vorlesungsfolien anschauen",
+      "Altklausuren und Gedächtnisprotokolle durcharbeiten"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Altklausuren",
+      "Gedächtnisprotokolle"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Verständnis des Stoffs priorisieren",
+      "Mit Vorlesungsfolien arbeiten",
+      "Mit Altklausuren und Gedächtnisprotokollen üben"
+    ],
+    "evidence": "sess_1759676725440_3p9f3k"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102805",
+    "name": "Teilleistung: Marketing Mix",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Stoff verstehen",
+      "Vorlesungsfolien anschauen",
+      "Altklausuren und Gedächtnisprotokolle durcharbeiten"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Altklausuren",
+      "Gedächtnisprotokolle"
+    ],
+    "pitfall": [],
+    "tip": [
+      "Verständnis des Stoffs priorisieren",
+      "Mit Vorlesungsfolien arbeiten",
+      "Mit Altklausuren und Gedächtnisprotokollen üben"
+    ],
+    "evidence": "sess_1759676725440_3p9f3k"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102805",
+    "name": "Teilleistung: Marketing Mix",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Stoff verstehen",
+      "Vorlesungsfolien anschauen",
+      "Altklausuren und Gedächtnisprotokolle durcharbeiten",
+      "Anwendungsaufgaben üben"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Altklausuren",
+      "Gedächtnisprotokolle"
+    ],
+    "pitfall": [
+      "Nur auswendig lernen – Anwendung wird gefragt"
+    ],
+    "tip": [
+      "Verständnis des Stoffs priorisieren",
+      "Mit Vorlesungsfolien arbeiten",
+      "Mit Altklausuren und Gedächtnisprotokollen üben",
+      "Auf Verständnis- und Anwendungsfragen fokussieren",
+      "Gelerntes auf neue Beispiele übertragen"
+    ],
+    "evidence": "sess_1759676725440_3p9f3k"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102805",
+    "name": "Teilleistung: Marketing Mix",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Stoff verstehen",
+      "Vorlesungsfolien anschauen",
+      "Altklausuren und Gedächtnisprotokolle durcharbeiten",
+      "Anwendungsaufgaben üben"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Altklausuren",
+      "Gedächtnisprotokolle"
+    ],
+    "pitfall": [
+      "Nur auswendig lernen – Anwendung wird gefragt",
+      "Zeit ist sehr knapp; kaum Zeit, Unterlagen in der Prüfung anzuwenden"
+    ],
+    "tip": [
+      "Verständnis des Stoffs priorisieren",
+      "Mit Vorlesungsfolien arbeiten",
+      "Mit Altklausuren und Gedächtnisprotokollen üben",
+      "Auf Verständnis- und Anwendungsfragen fokussieren",
+      "Gelerntes auf neue Beispiele übertragen",
+      "Unterlagen ggf. zur eigenen Sicherheit nutzen, aber nicht darauf verlassen"
+    ],
+    "evidence": "sess_1759676725440_3p9f3k"
+  },
+  {
+    "@context": {
+      "ex": "http://example.org/wi-ontology#",
+      "schema": "http://schema.org/",
+      "Course": "schema:Course",
+      "name": "schema:name",
+      "examType": "ex:examType",
+      "difficulty": "ex:difficulty",
+      "prepWeeks": "ex:prepWeeks",
+      "hoursPerWeek": "ex:hoursPerWeek",
+      "strategy": "ex:strategy",
+      "material": "ex:material",
+      "pitfall": "ex:pitfall",
+      "tip": "ex:tip",
+      "evidence": "ex:evidence"
+    },
+    "@type": "Course",
+    "@id": "http://example.org/wi-ontology#T-WIWI-102805",
+    "name": "Teilleistung: Marketing Mix",
+    "examType": "schriftlich",
+    "difficulty": 2,
+    "prepWeeks": null,
+    "hoursPerWeek": null,
+    "strategy": [
+      "Stoff verstehen",
+      "Vorlesungsfolien anschauen",
+      "Altklausuren und Gedächtnisprotokolle durcharbeiten",
+      "Anwendungsaufgaben üben"
+    ],
+    "material": [
+      "Vorlesungsfolien",
+      "Altklausuren",
+      "Gedächtnisprotokolle",
+      "Vorlesungsfolien (ILIAS)",
+      "Gedächtnisprotokolle (ILIAS)"
+    ],
+    "pitfall": [
+      "Nur auswendig lernen – Anwendung wird gefragt",
+      "Zeit ist sehr knapp; kaum Zeit, Unterlagen in der Prüfung anzuwenden"
+    ],
+    "tip": [
+      "Verständnis des Stoffs priorisieren",
+      "Mit Vorlesungsfolien arbeiten",
+      "Mit Altklausuren und Gedächtnisprotokollen üben",
+      "Auf Verständnis- und Anwendungsfragen fokussieren",
+      "Gelerntes auf neue Beispiele übertragen",
+      "Unterlagen ggf. zur eigenen Sicherheit nutzen, aber nicht darauf verlassen",
+      "Vorlesungsfolien in ILIAS gezielt nutzen – sind gut aufbereitet",
+      "Gedächtnisprotokolle in ILIAS können beim Lernen sinnvoll sein"
+    ],
+    "evidence": "sess_1759676725440_3p9f3k"
+  }
+]

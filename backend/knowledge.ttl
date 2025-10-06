@@ -1,0 +1,600 @@
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-112115 a schema:Course ;
+  schema:name "Teilleistung: Künstliche Intelligenz in der Produktion [T-MACH-112115]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4 ;
+  ex:evidence "sess_1758274675491_yvck2o" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-112115 a schema:Course ;
+  schema:name "Teilleistung: Künstliche Intelligenz in der Produktion [T-MACH-112115]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4 ;
+  ex:evidence "sess_1758274675491_yvck2o" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-112115 a schema:Course ;
+  schema:name "Teilleistung: Künstliche Intelligenz in der Produktion [T-MACH-112115]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4 ;
+  ex:evidence "sess_1758274675491_yvck2o" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102870 a schema:Course ;
+  schema:name "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]" ;
+  ex:evidence "sess_1758283718871_83tqwb" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102870 a schema:Course ;
+  schema:name "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4.5 ;
+  ex:evidence "sess_1758283718871_83tqwb" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102870 a schema:Course ;
+  schema:name "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4.5 ;
+  ex:prepWeeks 5 ;
+  ex:hoursPerWeek 12 ;
+  ex:evidence "sess_1758283718871_83tqwb" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102870 a schema:Course ;
+  schema:name "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]" ;
+  ex:evidence "sess_1758283718871_83tqwb" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102870 a schema:Course ;
+  schema:name "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]" ;
+  ex:tip "Algorithmen beherrschen" ;
+  ex:evidence "sess_1758283718871_83tqwb" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102870 a schema:Course ;
+  schema:name "Teilleistung: Logistics and Supply Chain Management [T-WIWI-102870]" ;
+  ex:tip "Algorithmen beherrschen" ;
+  ex:evidence "sess_1758283718871_83tqwb" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-103067 a schema:Course ;
+  schema:name "Teilleistung: Bachelorarbeit [T-WIWI-103067]" ;
+  ex:evidence "sess_1758802885674_rra0i2" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102758 a schema:Course ;
+  schema:name "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]" ;
+  ex:evidence "sess_1758808528699_f3i9fs" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102758 a schema:Course ;
+  schema:name "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4.5 ;
+  ex:evidence "sess_1758808528699_f3i9fs" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102758 a schema:Course ;
+  schema:name "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4.5 ;
+  ex:prepWeeks 10 ;
+  ex:hoursPerWeek 12 ;
+  ex:evidence "sess_1758808528699_f3i9fs" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102758 a schema:Course ;
+  schema:name "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4.5 ;
+  ex:prepWeeks 10 ;
+  ex:hoursPerWeek 12 ;
+  ex:material "Übungsaufgaben" ;
+  ex:tip "Aufgaben sind den Übungsaufgaben ähnlich, aber etwas schwerer – übe die Übungsaufgaben gründlich und rechne mit einem Tick mehr Schwierigkeit." ;
+  ex:evidence "sess_1758808528699_f3i9fs" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102758 a schema:Course ;
+  schema:name "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4.5 ;
+  ex:prepWeeks 10 ;
+  ex:hoursPerWeek 12 ;
+  ex:material "Übungsaufgaben" ;
+  ex:tip "Aufgaben sind den Übungsaufgaben ähnlich, aber etwas schwerer – übe die Übungsaufgaben gründlich und rechne mit einem Tick mehr Schwierigkeit." ;
+  ex:evidence "sess_1758808528699_f3i9fs" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102758 a schema:Course ;
+  schema:name "Teilleistung: Einführung in das Operations Research I und II [T-WIWI-102758]" ;
+  ex:evidence "sess_1758808528699_f3i9fs" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-106546 a schema:Course ;
+  schema:name "Teilleistung: Einführung in die Stochastische Optimierung [T-WIWI-106546]" ;
+  ex:pitfall "Mehr Theorieanteil als erwartet" ;
+  ex:pitfall "Zu wenig Aufgaben geübt" ;
+  ex:tip "Vorab mehr Aufgaben üben" ;
+  ex:tip "Theorieanteil gezielt vorbereiten" ;
+  ex:evidence "sess_1758832940422_jo25iu" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-106546 a schema:Course ;
+  schema:name "Teilleistung: Einführung in die Stochastische Optimierung [T-WIWI-106546]" ;
+  ex:pitfall "Mehr Theorieanteil als erwartet" ;
+  ex:pitfall "Zu wenig Aufgaben geübt" ;
+  ex:tip "Vorab mehr Aufgaben üben" ;
+  ex:tip "Theorieanteil gezielt vorbereiten" ;
+  ex:evidence "sess_1758832940422_jo25iu" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-106546 a schema:Course ;
+  schema:name "Teilleistung: Einführung in die Stochastische Optimierung [T-WIWI-106546]" ;
+  ex:pitfall "Mehr Theorieanteil als erwartet" ;
+  ex:pitfall "Zu wenig Aufgaben geübt" ;
+  ex:pitfall "Weniger Aufgaben mit konkreten Zahlen als erwartet" ;
+  ex:tip "Vorab mehr Aufgaben üben" ;
+  ex:tip "Theorieanteil gezielt vorbereiten" ;
+  ex:evidence "sess_1758832940422_jo25iu" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:difficulty 4 ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:difficulty 4 ;
+  ex:pitfall "Bonusübung ist mit hohem Aufwand verbunden" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:difficulty 4 ;
+  ex:pitfall "Bonusübung ist mit hohem Aufwand verbunden" ;
+  ex:pitfall "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen" ;
+  ex:tip "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:difficulty 4 ;
+  ex:pitfall "Bonusübung ist mit hohem Aufwand verbunden" ;
+  ex:pitfall "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen" ;
+  ex:tip "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4 ;
+  ex:pitfall "Bonusübung ist mit hohem Aufwand verbunden" ;
+  ex:pitfall "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen" ;
+  ex:tip "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4 ;
+  ex:prepWeeks 6 ;
+  ex:pitfall "Bonusübung ist mit hohem Aufwand verbunden" ;
+  ex:pitfall "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen" ;
+  ex:tip "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 4 ;
+  ex:prepWeeks 6 ;
+  ex:hoursPerWeek 7.5 ;
+  ex:pitfall "Bonusübung ist mit hohem Aufwand verbunden" ;
+  ex:pitfall "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen" ;
+  ex:tip "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 3 ;
+  ex:prepWeeks 6 ;
+  ex:hoursPerWeek 7.5 ;
+  ex:strategy "Altklausuren in Studydrive bearbeiten" ;
+  ex:strategy "Übungen bearbeiten" ;
+  ex:strategy "Folien verstehen" ;
+  ex:material "Altklausuren (Studydrive)" ;
+  ex:material "Übungen" ;
+  ex:material "Folien" ;
+  ex:pitfall "Bonusübung ist mit hohem Aufwand verbunden" ;
+  ex:pitfall "Ohne Verständnis der Rechenaufgaben lassen sie sich nicht korrekt berechnen" ;
+  ex:tip "Rechenaufgaben inhaltlich verstehen, bevor man sie berechnet" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:difficulty 3.7 ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102643 a schema:Course ;
+  schema:name "Teilleistung: Derivate" ;
+  ex:difficulty 3.7 ;
+  ex:pitfall "Zeit ist sehr knapp" ;
+  ex:evidence "sess_1759338505219_dg0fce" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:examType "schriftlich" ;
+  ex:strategy "auswendig lernen" ;
+  ex:pitfall "großer Stoffumfang" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 3 ;
+  ex:strategy "auswendig lernen" ;
+  ex:pitfall "großer Stoffumfang" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 3 ;
+  ex:prepWeeks 8 ;
+  ex:hoursPerWeek 12 ;
+  ex:strategy "auswendig lernen" ;
+  ex:pitfall "großer Stoffumfang" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 3 ;
+  ex:prepWeeks 8 ;
+  ex:hoursPerWeek 12 ;
+  ex:strategy "auswendig lernen" ;
+  ex:pitfall "großer Stoffumfang" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:strategy "Vorlesungsfolien gründlich durcharbeiten" ;
+  ex:strategy "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Online-Portale (zusätzliche Materialien)" ;
+  ex:tip "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab" ;
+  ex:tip "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:strategy "Vorlesungsfolien gründlich durcharbeiten" ;
+  ex:strategy "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Online-Portale (zusätzliche Materialien)" ;
+  ex:material "Stift" ;
+  ex:material "Taschenrechner" ;
+  ex:tip "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab" ;
+  ex:tip "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:difficulty 3 ;
+  ex:strategy "Vorlesungsfolien gründlich durcharbeiten" ;
+  ex:strategy "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Online-Portale (zusätzliche Materialien)" ;
+  ex:material "Stift" ;
+  ex:material "Taschenrechner" ;
+  ex:tip "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab" ;
+  ex:tip "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:difficulty 3 ;
+  ex:strategy "Vorlesungsfolien gründlich durcharbeiten" ;
+  ex:strategy "Zusätzliche Ressourcen auf verschiedenen Online-Portalen recherchieren" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Online-Portale (zusätzliche Materialien)" ;
+  ex:material "Stift" ;
+  ex:material "Taschenrechner" ;
+  ex:tip "Fokus auf die Vorlesungsfolien setzen; diese decken den Stoff weitgehend ab" ;
+  ex:tip "Nicht zu viel Zeit in die Suche nach weiteren Materialien investieren, wenn die Folien verstanden sind" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-MACH-109054 a schema:Course ;
+  schema:name "Teilleistung: Integrierte Produktionsplanung im Zeitalter von Industrie 4.0" ;
+  ex:evidence "sess_1759425815802_v3qwui" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:strategy "Fokus auf Verständnisfragen und konzeptionelles Lernen" ;
+  ex:strategy "Nur wenige Rechenaufgaben gezielt üben" ;
+  ex:pitfall "Zu viel Zeit in Rechenaufgaben investieren" ;
+  ex:tip "Kernkonzepte und Zusammenhänge verstehen und in eigenen Worten erklären können" ;
+  ex:tip "Basisrechnungen kurz wiederholen, da sie nur selten vorkommen" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:strategy "Altklausuren anschauen" ;
+  ex:strategy "Gedächtnisprotokolle anschauen" ;
+  ex:material "Altklausuren" ;
+  ex:material "Gedächtnisprotokolle" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:strategy "Altklausuren anschauen" ;
+  ex:strategy "Gedächtnisprotokolle anschauen" ;
+  ex:strategy "Aufgabenmuster aus vergangenen Semestern erkennen" ;
+  ex:material "Altklausuren" ;
+  ex:material "Gedächtnisprotokolle" ;
+  ex:pitfall "Sich ausschließlich auf identische Wiederholungen verlassen" ;
+  ex:tip "Aufgaben wiederholen sich häufig über die Semester; nutze Altklausuren und Protokolle gezielt" ;
+  ex:tip "Rechne mit leichten Abwandlungen der Aufgaben und übe Variationen" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:examType "schriftlich" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:examType "schriftlich" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:examType "schriftlich" ;
+  ex:strategy "Vorlesung besuchen" ;
+  ex:material "Vorlesung" ;
+  ex:tip "Vorlesung besuchen (lohnt sich, kurzweilig)" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-111594 a schema:Course ;
+  schema:name "Management und Marketing" ;
+  ex:examType "schriftlich" ;
+  ex:strategy "Vorlesung besuchen" ;
+  ex:material "Vorlesung" ;
+  ex:pitfall "zu langsam arbeiten" ;
+  ex:pitfall "Tempo unterschätzen" ;
+  ex:tip "Vorlesung besuchen (lohnt sich, kurzweilig)" ;
+  ex:tip "schnell arbeiten" ;
+  ex:evidence "sess_1759523375240_alsih3" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102805 a schema:Course ;
+  schema:name "Teilleistung: Marketing Mix" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:evidence "sess_1759676725440_3p9f3k" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102805 a schema:Course ;
+  schema:name "Teilleistung: Marketing Mix" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:strategy "Stoff verstehen" ;
+  ex:strategy "Vorlesungsfolien anschauen" ;
+  ex:strategy "Altklausuren und Gedächtnisprotokolle durcharbeiten" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Altklausuren" ;
+  ex:material "Gedächtnisprotokolle" ;
+  ex:tip "Verständnis des Stoffs priorisieren" ;
+  ex:tip "Mit Vorlesungsfolien arbeiten" ;
+  ex:tip "Mit Altklausuren und Gedächtnisprotokollen üben" ;
+  ex:evidence "sess_1759676725440_3p9f3k" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102805 a schema:Course ;
+  schema:name "Teilleistung: Marketing Mix" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:strategy "Stoff verstehen" ;
+  ex:strategy "Vorlesungsfolien anschauen" ;
+  ex:strategy "Altklausuren und Gedächtnisprotokolle durcharbeiten" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Altklausuren" ;
+  ex:material "Gedächtnisprotokolle" ;
+  ex:tip "Verständnis des Stoffs priorisieren" ;
+  ex:tip "Mit Vorlesungsfolien arbeiten" ;
+  ex:tip "Mit Altklausuren und Gedächtnisprotokollen üben" ;
+  ex:evidence "sess_1759676725440_3p9f3k" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102805 a schema:Course ;
+  schema:name "Teilleistung: Marketing Mix" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:strategy "Stoff verstehen" ;
+  ex:strategy "Vorlesungsfolien anschauen" ;
+  ex:strategy "Altklausuren und Gedächtnisprotokolle durcharbeiten" ;
+  ex:strategy "Anwendungsaufgaben üben" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Altklausuren" ;
+  ex:material "Gedächtnisprotokolle" ;
+  ex:pitfall "Nur auswendig lernen – Anwendung wird gefragt" ;
+  ex:tip "Verständnis des Stoffs priorisieren" ;
+  ex:tip "Mit Vorlesungsfolien arbeiten" ;
+  ex:tip "Mit Altklausuren und Gedächtnisprotokollen üben" ;
+  ex:tip "Auf Verständnis- und Anwendungsfragen fokussieren" ;
+  ex:tip "Gelerntes auf neue Beispiele übertragen" ;
+  ex:evidence "sess_1759676725440_3p9f3k" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102805 a schema:Course ;
+  schema:name "Teilleistung: Marketing Mix" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:strategy "Stoff verstehen" ;
+  ex:strategy "Vorlesungsfolien anschauen" ;
+  ex:strategy "Altklausuren und Gedächtnisprotokolle durcharbeiten" ;
+  ex:strategy "Anwendungsaufgaben üben" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Altklausuren" ;
+  ex:material "Gedächtnisprotokolle" ;
+  ex:pitfall "Nur auswendig lernen – Anwendung wird gefragt" ;
+  ex:pitfall "Zeit ist sehr knapp; kaum Zeit, Unterlagen in der Prüfung anzuwenden" ;
+  ex:tip "Verständnis des Stoffs priorisieren" ;
+  ex:tip "Mit Vorlesungsfolien arbeiten" ;
+  ex:tip "Mit Altklausuren und Gedächtnisprotokollen üben" ;
+  ex:tip "Auf Verständnis- und Anwendungsfragen fokussieren" ;
+  ex:tip "Gelerntes auf neue Beispiele übertragen" ;
+  ex:tip "Unterlagen ggf. zur eigenen Sicherheit nutzen, aber nicht darauf verlassen" ;
+  ex:evidence "sess_1759676725440_3p9f3k" .
+
+@prefix ex: <http://example.org/wi-ontology#> .
+@prefix schema: <http://schema.org/> .
+ex:T-WIWI-102805 a schema:Course ;
+  schema:name "Teilleistung: Marketing Mix" ;
+  ex:examType "schriftlich" ;
+  ex:difficulty 2 ;
+  ex:strategy "Stoff verstehen" ;
+  ex:strategy "Vorlesungsfolien anschauen" ;
+  ex:strategy "Altklausuren und Gedächtnisprotokolle durcharbeiten" ;
+  ex:strategy "Anwendungsaufgaben üben" ;
+  ex:material "Vorlesungsfolien" ;
+  ex:material "Altklausuren" ;
+  ex:material "Gedächtnisprotokolle" ;
+  ex:material "Vorlesungsfolien (ILIAS)" ;
+  ex:material "Gedächtnisprotokolle (ILIAS)" ;
+  ex:pitfall "Nur auswendig lernen – Anwendung wird gefragt" ;
+  ex:pitfall "Zeit ist sehr knapp; kaum Zeit, Unterlagen in der Prüfung anzuwenden" ;
+  ex:tip "Verständnis des Stoffs priorisieren" ;
+  ex:tip "Mit Vorlesungsfolien arbeiten" ;
+  ex:tip "Mit Altklausuren und Gedächtnisprotokollen üben" ;
+  ex:tip "Auf Verständnis- und Anwendungsfragen fokussieren" ;
+  ex:tip "Gelerntes auf neue Beispiele übertragen" ;
+  ex:tip "Unterlagen ggf. zur eigenen Sicherheit nutzen, aber nicht darauf verlassen" ;
+  ex:tip "Vorlesungsfolien in ILIAS gezielt nutzen – sind gut aufbereitet" ;
+  ex:tip "Gedächtnisprotokolle in ILIAS können beim Lernen sinnvoll sein" ;
+  ex:evidence "sess_1759676725440_3p9f3k" .
+

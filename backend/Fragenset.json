@@ -1,0 +1,70 @@
+{
+  "phases": [
+    {
+      "phase": 1,
+      "name": "Allgemeine Fragen",
+      "goal": "Einstieg ins Gespräch, Motivation und Studienkontext erfassen",
+      "questions": [
+        "Welche Vertiefungsrichtungen hast du thematisch in deinem Studium gewählt und warum?",
+        "Warum hast du dich für diesen Studiengang entschieden?",
+        "Was war deine Motivation, genau an dieser Universität zu studieren?",
+        "Welche Module fandest du bisher am interessantesten?",
+        "Hast du eher praxisnahe oder theoretische Inhalte bevorzugt?",
+        "Gab es ein Fach, das dich besonders geprägt hat?",
+        "Würdest du diesen Studiengang auch anderen empfehlen? Wenn ja, warum?"
+      ]
+    },
+    {
+      "phase": 2,
+      "name": "Fächersuchende Fragen",
+      "goal": "Von allgemeinen Eindrücken zu einem konkreten Fach/Teilleistung überleiten",
+      "questions": [
+        "Welches Fach hast du im Bereich BWL zuletzt abgeschlossen?",
+        "Welches Fach hast du im Bereich Operations Research zuletzt abgeschlossen?",
+        "Welches Fach hast du im Bereich Ingenieurwissenschaften zuletzt abgeschlossen?",
+        "Welches Fach hast du im Bereich Informatik zuletzt abgeschlossen?",
+        "Welches Fach hast du im Bereich VWL zuletzt abgeschlossen?",
+        "Gibt es ein Fach, dass du bewusst für deine berufliche Laufbahn gewählt hast?",
+        "Gibt es ein Fach, das du kürzlich belegt hast und besonders empfehlen würdest?",
+        "Welche Klausur war für dich bisher die schwierigste?",
+        "Welches Fach hat dich am meisten überrascht – positiv oder negativ?",
+        "Welche Vorlesung war bisher die beste, die du besucht hast?",
+        "Gab es ein Fach, bei dem sich deine Erwartungen nicht mit der Realität gedeckt haben?",
+        "Welches Fach würdes du empfehlen, wenn man mit wenig Aufwand eine gute Note erzielen möchte?",
+        "Welches Fach hat dir am meisten Spaß gemacht?"
+      ]
+    },
+    {
+      "phase": 3,
+      "name": "Detailfragen zu einer Teilleistung",
+      "goal": "Erfahrungswissen zu einem spezifischen Fach/Klausur extrahieren",
+      "questions": [
+        "Wie würdest du die Schwierigkeit der Klausur auf einer Skala von 1 (sehr leicht) bis 5 (sehr schwierig) einschätzen?",
+        "Welche Lernstrategien haben dir in diesem Fach am meisten geholfen und wie viele Wochen und Stunden würdest du für eine gute Note in diesem Fach empfehlen?",
+        "Gab es im ILIAS-Kurs genügend Material oder hast du externe Quellen (bspw. Studydrive oder ähnliches) genutzt?",
+        "Lohnt es sich in die Vorlesung zu gehen oder reicht das Selbststudium? Wenn ja, warum?",
+        "Wie würdest du den Prüfungstyp beschreiben (z. B. viele Rechnungen, Verständnisfragen, Multiple Choice)?",
+        "Gab es Bonusmöglichkeiten während des Semesters, um die Note verbessern zu können?",
+        "Wie hilfreich fandest du die Vorlesung? Lohnt es sich, regelmäßig hinzugehen?",
+        "Wie viel Vorbereitungszeit braucht man mindestens, um die Prüfung zu bestehen?",
+        "Wie viel Vorbereitungszeit benötigt man ungefähr, um eine gute Note (2,0 oder besser) zu erzielen?",
+        "Wie hoch war dein Lernaufwand in Stunden pro Woche ungefähr?",
+        "Gab es typische Fehler, die viele Studierende in der Klausur machen?",
+        "Würdest du dieses Fach einem guten Freund empfehlen? Warum (nicht)?"
+      ]
+    },
+    {
+      "phase": 4,
+      "name": "Wechsel zu einer weiteren Teilleistung",
+      "goal": "Gespräch auf weitere Fächer/Module ausweiten und Zusammenhänge herstellen",
+      "questions": [
+        "Gibt es ein weiteres Fach, das sich thematisch gut ergänzt oder inhaltlich überschneidet?",
+        "Laut Modulhandbuch gehört dieses Fach zum Modul XY – welche weiteren Fächer aus diesem Modul hast du schon belegt?",
+        "Hast du in letzter Zeit eine andere Klausur geschrieben, die dir besonders in Erinnerung geblieben ist?",
+        "Würdest du sagen, dass dieses Fach eher eine Grundlage oder eine Vertiefung darstellt?",
+        "Welches Fach würdest du als nächstes empfehlen, nachdem man dieses abgeschlossen hat?",
+        "Mit welchen Fach lässt sich dieses am besten kombinieren?"
+      ]
+    }
+  ]
+}

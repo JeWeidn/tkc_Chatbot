@@ -1,25 +1,19 @@
 """
-Quick PDFTextDumper v3.7 (komplett)
-====================================
+Quick PDFTextDumper v3.7 (komplett) + ID/Type
+=============================================
+* Liest eine PDF, überspringt die ersten N Seiten (Default 25) und speichert
+  jede Seite als JSON-Objekt in TestText.json. Objekte mit identischem `title`
+  werden zusammengeführt; der Fließtext bleibt in `text`.
 
-*Liest eine PDF, überspringt die ersten **N Seiten** (Default 25) und speichert
-jede Seite als JSON‑Objekt in **TestText.json**.*  Objekte mit identischem
-`title` werden zusammengeführt; der Fließtext bleibt in `text`.
+* Neu: `id` wird aus den eckigen Klammern im Titel extrahiert (z. B. [M-…] / [T-…]).
+* Neu: `type` wird aus dem Titelpräfix bis zum ersten ":" ermittelt
+       ("Modul" → "module", "Teilleistung" → "teilleistung"; Fallback über ID).
+* `New_Knowledge` (leeres Array) bleibt unverändert.
 
-**Neu in v3.7**
-* **`new_knowledge`** (leeres Array) wird **jedem** Datensatz hinzugefügt –
-  vorgesehen, um später vom Chatbot erzeugtes Zusatz‑Wissen abzulegen.
-* Alle bisherigen Felder bleiben erhalten.
-
-```bash
-python extract_text.py                # Standard (skip=25)
-```
-
-Abhängigkeiten: `pip install langchain-community unstructured tqdm`
+pip install langchain-community unstructured tqdm
 """
 
 from __future__ import annotations
-
 import argparse
 import json
 import re
@@ -38,7 +32,7 @@ DEFAULT_OUT = BASE_DIR / "TestText.json"
 DEFAULT_SKIP = 25
 
 # ---------------------------------------------------------------------------
-# Regex‑Vorlagen
+# Regex-Vorlagen
 # ---------------------------------------------------------------------------
 _TITLE_PREFIX = re.compile(r"^[67]\s+(?:module|modules|teilleistungen)\s*:?.*?\b", re.I)
 _RESP_RGX     = re.compile(r"Verantwortung:\s*(.*?)\s*(?:\n|$)")
@@ -47,7 +41,7 @@ _PART_MOD     = re.compile(r"Bestandteil von:\s*(.*?)\s*(?:\n|$)")
 _PART_TL      = re.compile(r"Bestandteil von:\s*(.*?)\s*(?=\n.*?Teilleistungsart)", re.S)
 _ECTS_RGX     = re.compile(r"Leistungspunkte\s*\n\s*(\d+[.,]?\d*)")
 _PWA_BLOCK    = re.compile(r"T-[A-Z]{4}-\d{5,6}.*?(?=\n\s*Erfolgskontrolle\(n\))", re.S)
-_STOP_LINE    = r"\n\s*[^.,\n\s]+(?:\s+[^.,\n\s]+)?\s*\n|$"  # max 2 Wörter, kein Punkt/Komma
+_STOP_LINE    = r"\n\s*[^.,\n\s]+(?:\s+[^.,\n\s]+)?\s*\n|$"
 _ERFOLG_RGX   = re.compile(rf"Erfolgskontrolle\(n\)\s*\n(.*?)(?={_STOP_LINE})", re.S)
 _QUALI_RGX    = re.compile(rf"Qualifikationsziele\s*\n(.*?)(?={_STOP_LINE})", re.S)
 _VOR_RGX      = re.compile(rf"Voraussetzungen\s*\n(.*?)(?={_STOP_LINE})", re.S)
@@ -55,39 +49,32 @@ _INHALT_RGX   = re.compile(rf"(?:Inhalt|Lehrinhalt):?\s*\n(.*?)(?={_STOP_LINE})"
 _ANM_RGX      = re.compile(rf"(?:Anmerkungen|Hinweise):?\s*\n(.*?)(?={_STOP_LINE})", re.S)
 _SPLIT_DELIM  = re.compile(r"[\n,]+")
 
+# Neu: ID im Titel (z. B. [M-WIWI-101402] oder [T-WIWI-110797])
+_ID_IN_TITLE_RGX = re.compile(r"\[([MT]-[A-Z\-0-9]+)\]")
 
 # ---------------------------------------------------------------------------
-# Hilfs‑Funktionen
+# Hilfs-Funktionen
 # ---------------------------------------------------------------------------
-
 def pdf_to_pages(pdf: Path) -> list[str]:
-    """Lädt eine PDF und gibt pro Seite den reinen Text zurück."""
     return [p.page_content for p in PyPDFLoader(str(pdf)).load()]
 
-
 def clean_title(raw: str) -> str:
-    """Bereinigt führende Kapitel‑/Zählerpräfixe in der Titelzeile."""
     return _TITLE_PREFIX.sub("", raw).strip()
 
-
 def drop_first_three(text: str) -> str:
-    """Entfernt die ersten drei Zeilen (Seitenkopf)."""
     parts = text.split("\n", 3)
     return parts[3].strip() if len(parts) > 3 else text.strip()
-
 
 def extract_one(rx: re.Pattern[str], text: str) -> str | None:
     if (m := rx.search(text)):
         return m.group(1).strip()
     return None
 
-
 def extract_multi(rx: re.Pattern[str], text: str) -> str | None:
     ms = [m.group(1).strip() for m in rx.finditer(text) if m.group(1).strip()]
     if not ms:
         return None
     return "\n\n".join(ms)
-
 
 def extract_part_of(text: str, is_module: bool) -> list[str] | None:
     m = (_PART_MOD if is_module else _PART_TL).search(text)
@@ -97,7 +84,6 @@ def extract_part_of(text: str, is_module: bool) -> list[str] | None:
     parts = [s.strip(" •-–\t") for s in _SPLIT_DELIM.split(seg) if s.strip()]
     return parts or None
 
-
 def extract_ects(text: str) -> float | None:
     if (m := _ECTS_RGX.search(text)):
         try:
@@ -105,7 +91,6 @@ def extract_ects(text: str) -> float | None:
         except ValueError:
             return None
     return None
-
 
 def extract_pwa(text: str) -> list[str] | None:
     if (m := _PWA_BLOCK.search(text)):
@@ -116,17 +101,46 @@ def extract_pwa(text: str) -> list[str] | None:
             if ln.startswith("T-"):
                 res.append(ln)
                 expect_t = False
-            elif not expect_t:  # Leerzeile / Abschnittswechsel → Ergänzungsangebot‑Marker
+            elif not expect_t:
                 res.append("Ergänzungsangebot:")
                 expect_t = True
         return res or None
     return None
 
+# Neu: ID & Type-Ermittlung ---------------------------------------------------
+def extract_id_from_title(title: str) -> str | None:
+    """Nimmt den Inhalt in eckigen Klammern, z. B. [M-…] oder [T-…]."""
+    m = _ID_IN_TITLE_RGX.search(title)
+    return m.group(1).strip() if m else None
+
+def infer_type_from_title(title: str, fallback_id: str | None) -> str:
+    """
+    Bestimmt den Typ aus dem Titelpräfix BIS zum ersten ':'.
+    'Modul ...:' -> 'module', 'Teilleistung ...:' -> 'teilleistung'.
+    Fallback: über ID-Präfix 'M-' / 'T-'. Sonst 'unknown'.
+    """
+    t = title.strip()
+    if ":" in t:
+        prefix = t.split(":", 1)[0].strip().lower()
+        if prefix.startswith("modul"):
+            return "module"
+        if prefix.startswith("teilleistung"):
+            return "teilleistung"
+    if fallback_id:
+        if fallback_id.startswith("M-"):
+            return "module"
+        if fallback_id.startswith("T-"):
+            return "teilleistung"
+    # letzter Fallback wie vorheriges Verhalten
+    if t.lower().startswith("modul"):
+        return "module"
+    if t.lower().startswith("teilleistung"):
+        return "teilleistung"
+    return "unknown"
 
 # ---------------------------------------------------------------------------
-# Merge‑Logik
+# Merge-Logik
 # ---------------------------------------------------------------------------
-
 def merge(items: list[dict]) -> list[dict]:
     """Fasst Seiten mit gleichem Titel zusammen und extrahiert Metadaten."""
     buckets: dict[str, dict] = {}
@@ -141,11 +155,17 @@ def merge(items: list[dict]) -> list[dict]:
         page_str = str(pages[0]) if len(pages) == 1 else f"{pages[0]}-{pages[-1]}"
         combined = "\n\n".join(data["texts"]).strip()
 
+        # Neu: ID & Type
+        _id = extract_id_from_title(data["title"])
+        _type = infer_type_from_title(data["title"], _id)
+
         obj: dict[str, object] = {
             "title": data["title"],
+            "id": _id,                 # ← NEU
+            "type": _type,             # ← NEU
             "page": page_str,
             "text": combined,
-            "New_Knowledge": []  # ← NEU ab v3.7
+            "New_Knowledge": []        # ← wie gehabt
         }
 
         if (resp := extract_one(_RESP_RGX, combined)):
@@ -153,7 +173,7 @@ def merge(items: list[dict]) -> list[dict]:
         if (inst := extract_one(_INST_RGX, combined)):
             obj["institution"] = inst
 
-        is_module = data["title"].lower().startswith("modul")
+        is_module = (_type == "module")  # ersetzt frühere Heuristik
         if (parts := extract_part_of(combined, is_module)):
             obj["part_of"] = parts
         if (ects := extract_ects(combined)) is not None:
@@ -172,13 +192,12 @@ def merge(items: list[dict]) -> list[dict]:
             obj["anmerkungen"] = anm
 
         merged.append(obj)
-    return merged
 
+    return merged
 
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
-
 def main(pdf: Path, out: Path, skip: int):
     if not pdf.exists():
         raise FileNotFoundError(pdf)
@@ -202,12 +221,10 @@ def main(pdf: Path, out: Path, skip: int):
 
     print(f"✅ {len(data)} Einträge aus {len(rows)} Seiten → {out}")
 
-
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="PDF → merged JSON (v3.7)")
+    parser = argparse.ArgumentParser(description="PDF → merged JSON (v3.7 + ID/Type)")
     parser.add_argument("--pdf", type=Path, default=DEFAULT_PDF, help="Pfad zur PDF")
-    parser.add_argument("--out", type=Path, default=DEFAULT_OUT, help="Ausgabe‑JSON")
+    parser.add_argument("--out", type=Path, default=DEFAULT_OUT, help="Ausgabe-JSON")
     parser.add_argument("--skip", type=int, default=DEFAULT_SKIP, help="Erste N Seiten überspringen")
     args = parser.parse_args()
-
     main(args.pdf, args.out, args.skip)

@@ -34,7 +34,11 @@ api_key = os.getenv("OPENAI_API_KEY") or (
     _ for _ in ()
 ).throw(EnvironmentError("OPENAI_API_KEY fehlt in .env"))
 
-embeddings = OpenAIEmbeddings(openai_api_key=api_key)
+embeddings = OpenAIEmbeddings(
+    model="text-embedding-3-large",       # neues Modell
+    dimensions=1024,                      # optional: Vektor kürzen → 1024
+    openai_api_key=api_key,
+)
 
 # ──────────────────────────────
 # 2)  PDF laden

@@ -1,3 +1,38 @@
+/* ===== Header & Mode-Toggle ===== */
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  max-width: 1100px;
+  margin: 0 auto 12px auto;
+}
+
+.mode-toggle {
+  display: inline-flex;
+  border: 1px solid #ddd;
+  border-radius: 999px;
+  overflow: hidden;
+}
+
+.mode-btn {
+  padding: 6px 12px;
+  background: #f7f7f7;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.mode-btn + .mode-btn {
+  border-left: 1px solid #ddd;
+}
+
+.mode-btn.active {
+  background: #1f6feb;
+  color: #fff;
+}
+
+/* ===== App/Layout ===== */
 .App {
   max-width: 1100px;
   margin: 40px auto;
@@ -37,7 +72,7 @@ h2 {
   max-width: 80%;                /* etwas mehr Gesamtbreite */
   padding: 10px 14px;
   border-radius: 16px;
-  display: flex;                 /* NEU: Flex-Row für Icon-Text-Quellen */
+  display: flex;                 /* Flex-Row für Icon-Text-Quellen */
   align-items: flex-start;
   gap: 8px;
 }
@@ -60,8 +95,8 @@ h2 {
 .bubble-text {
   flex:  1 1 65%;                 /* 60-70 % der Bubble-Breite */
   max-width: 100%;
-  white-space: pre-wrap;         /* erhält Zeilenumbrüche */
-  overflow-wrap: anywhere;       /* bricht lange Wörter */
+  white-space: pre-wrap;          /* erhält Zeilenumbrüche */
+  overflow-wrap: anywhere;        /* bricht lange Wörter */
   line-height: 1.25;
   text-align: left;
 }
@@ -95,7 +130,7 @@ h2 {
   40%          { opacity: 1; }
 }
 
-
+/* ===== Eingabe ===== */
 .input-area {
   display: flex;
   justify-content: space-between;
@@ -148,4 +183,3 @@ h2 {
 .input-area button:hover {
   background-color: #0056b3;
 }
-
